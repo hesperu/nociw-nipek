@@ -1,9 +1,0 @@
-.rainbow {
-    animation: rainbow 1.5s linear infinite;
-}
-@keyframes rainbow {
-    0% { color: #e4007f;}
-    25% { color: #ffff00;}
-    50% { color: #00ffff; }
-    100% { color: #e4007f; }
-}
